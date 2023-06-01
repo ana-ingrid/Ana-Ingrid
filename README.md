@@ -1,17 +1,9 @@
 ## Ana Ingrid dos Santos
 
-[![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ana-ingrid-dos-santos/)
+[![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&)](https://www.linkedin.com/in/ana-ingrid-dos-santos/)<br><br>
 
-<br><br>
-
-<div align="center">
-  <a href="https://github.com/JoaoVitorcan">
-    <img height="200em" src="https://github-readme-stats.vercel.app/api?username=AnaIngrid&count_private=true&include_all_commits=true&show_icons=true&theme=transparent&hide_border=false&show_owner=true"/>
-    <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnaIngrid&theme=transparent&hide_border=false&&layout=compact"/>
-  </a>
-</div>
-
-<br><br>
+[![Gráfico github](https://github-readme-stats.vercel.app/api?username=AnaIngrid&theme=transparent)]()
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AnaIngrid&layout=compact&theme=transparent)]()
 
 ## Tecnologias que uso no dia a dia
 
