@@ -13,10 +13,14 @@
 
 <br><br>
 
-## Tecnologias que uso no dia a dia
+## Tecnologias e linguagens em que trabalho
 
-[![CSS ](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)]()
-[ ![HTML ](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)]()
+
 [ ![Java ](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)]()
 [ ![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)]()
-[ ![Mysql ](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)]()
+[ ![Spring](https://img.shields.io/badge/Spring%20Boot-000010?style=for-the-badge&logo=spring-boot&logoColor=white)]()
+[ ![Amazon AWS](https://img.shields.io/badge/amazon%20web%20services-000054?style=for-the-badge&logo=amazon%20web%20services&logoColor=white)]()
+[ ![SQL ](https://img.shields.io/badge/SQL-008080?style=for-the-badge&logo=amazonrds&logoColor=white)]()
+[ ![NoSQL ](https://img.shields.io/badge/NoSQL-6959CD?style=for-the-badge&logo=amazondocumentdb&logoColor=white)]()
+[![CSS ](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)]()
+[ ![HTML ](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)]()
