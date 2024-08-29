@@ -13,14 +13,18 @@
 
 <br><br>
 
-## Tecnologias e linguagens em que trabalho
+## Algumas das Tecnologias e linguagens em que trabalho
 
 
 [ ![Java ](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)]()
 [ ![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)]()
 [ ![Spring](https://img.shields.io/badge/Spring%20Boot-000010?style=for-the-badge&logo=spring-boot&logoColor=white)]()
+[ ![junit5](https://img.shields.io/badge/junit5-A0522D?style=for-the-badge&logo=junit5&logoColor=white)]()
 [ ![Amazon AWS](https://img.shields.io/badge/amazon%20web%20services-000054?style=for-the-badge&logo=amazon%20web%20services&logoColor=white)]()
 [ ![SQL ](https://img.shields.io/badge/SQL-008080?style=for-the-badge&logo=amazonrds&logoColor=white)]()
 [ ![NoSQL ](https://img.shields.io/badge/NoSQL-6959CD?style=for-the-badge&logo=amazondocumentdb&logoColor=white)]()
 [![CSS ](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)]()
 [ ![HTML ](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)]()
+[ ![linux ](https://img.shields.io/badge/linux-4F4F4F?style=for-the-badge&logo=linux&logoColor=white)]()
+[ ![git ](https://img.shields.io/badge/git-B22222?style=for-the-badge&logo=git&logoColor=white)]()
+[ ![gitlab ](https://img.shields.io/badge/gitlab-E9967A?style=for-the-badge&logo=gitlab&logoColor=white)]()
